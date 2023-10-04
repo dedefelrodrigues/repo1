@@ -1,9 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T06:43:55.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.2" etag="fprI8THIXchf7wwnfAhc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T07:25:34.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="j4b-OMRh0D0dqyG-Lj9T" version="22.0.2" type="github">
   <diagram name="Page-1" id="olm9c_AXDBSFhyzIpc0j">
-    <mxGraphModel>
+    <mxGraphModel dx="2284" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-25" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="60" width="920" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-26" value="BPC EU (P34)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ihpz_ery8-bUaTA76cwm-25">
+          <mxGeometry x="770.8108108108108" y="190" width="149.1891891891892" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-14" value="ZFP_PE071&lt;br style=&quot;font-size: 10px;&quot;&gt;FP - E - IPL - BC Extract to SAC (KF)" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_1;fillColor=#2072B8;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="379" width="51.85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ihpz_ery8-bUaTA76cwm-17" target="Ihpz_ery8-bUaTA76cwm-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-164" y="470" />
+              <mxPoint x="-716" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-17" value="ZFP_PE072&lt;br&gt;IPL - E - BC Extract to SAC (Account)" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_1;fillColor=#2072B8;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="379" width="51.85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-16" value="ZFP_M02_Q0029&lt;br style=&quot;font-size: 10px;&quot;&gt;AC48 for SAC - Export query - auto mcfv" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.monitoring_store;gradientColor=#7ea6e0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="370" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-13" value="ZFP_M02" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_cube;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="373" width="47" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ihpz_ery8-bUaTA76cwm-14" target="Ihpz_ery8-bUaTA76cwm-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="174" as="sourcePoint" />
+            <mxPoint x="-240" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ihpz_ery8-bUaTA76cwm-16" target="Ihpz_ery8-bUaTA76cwm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ihpz_ery8-bUaTA76cwm-13" target="Ihpz_ery8-bUaTA76cwm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-32" value="Middleware" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_service_request;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="509" width="60.15" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABi0lEQVR4nO2XTW7CQAyF36JZFTbtrUgWvQUr2DXhdlVJuqC9ULMh1UiOZFkFZmLnh9afNBIaMsN7E+OxAcdxHAUZgAOAhkZFc3fBGsARQCfGO4AVFs4jgLdfxPfjgwwukiCsZmLPAEoKnzObry3eRAHgE0B75bT60dKzeaL4Hft+b2miiBB9abxEhE0QGgRLtsLE4HD6Uhg4ib1WN05eYvImeNg8RTz/zJ7/ZvMZZZZY8ZdMhD0ekAA/Uc2awwDxPTth4hUzGGjYXMg2qZQilFRitAZCqkylYuvDxacSM2RNFZF5Yv8Hs4RQJkqGWBN7If4415845Q4wvQssDcxykXXGBmJMbIX4RlPU8YssXFJDLzLJWmSm85ViTlWRWpYSt0x0YqjFa4u5zVIampxOM7acPkWK5ym2pBOv6XNSqnSWTmHUkVl3dpN2ZNad3eRpdMx0PElHZrVPMvwkNGus9knGDRD+BobiIUR4CP3bEGqNOrKxOru/X0rkih/ejLDPrB3Z2J2d4zi4U34AJZ1A3nmW1JAAAAAASUVORK5CYII=;" vertex="1" parent="1">
+          <mxGeometry width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ihpz_ery8-bUaTA76cwm-35" target="Ihpz_ery8-bUaTA76cwm-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-35" value="ZFPEP021" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_cube;fillColor=#2072B8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="510" width="47" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ihpz_ery8-bUaTA76cwm-37" target="Ihpz_ery8-bUaTA76cwm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-37" value="ZFPEP021_CO_Q0001&lt;br&gt;IPL - E - P&amp;amp;L Extraction (PL_OPER)" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.monitoring_store;gradientColor=#7ea6e0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="507" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-42" value="SAC&lt;br&gt;GFC Main (Staging)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.private_cloud;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="514.5" width="73.49" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihpz_ery8-bUaTA76cwm-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ihpz_ery8-bUaTA76cwm-32" target="Ihpz_ery8-bUaTA76cwm-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
