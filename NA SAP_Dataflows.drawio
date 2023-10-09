@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T09:21:00.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eIJt1wdYQxl2-ELcQjCX" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T09:24:42.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="s4o3dAyps_m0B2y1Trec" version="22.0.4" type="github">
   <diagram name="Page-1" id="olm9c_AXDBSFhyzIpc0j">
     <mxGraphModel dx="2284" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Ihpz_ery8-bUaTA76cwm-14" value="ZFP_DN010&lt;br&gt;IPL - BU/BC/VOL Consolidation (acc)" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_1;fillColor=#2072B8;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-760" y="79" width="51.85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-KhQLRqO_MwmeqYD8F9i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ihpz_ery8-bUaTA76cwm-17" target="Ihpz_ery8-bUaTA76cwm-35">
+        <mxCell id="-KhQLRqO_MwmeqYD8F9i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ihpz_ery8-bUaTA76cwm-17" target="Ihpz_ery8-bUaTA76cwm-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ihpz_ery8-bUaTA76cwm-17" value="ZFP_PN072&lt;br&gt;IPL - N - BC Extract to SAC (Account)" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_1;fillColor=#2072B8;fontSize=10;" parent="1" vertex="1">
@@ -22,10 +22,7 @@
         <mxCell id="Ihpz_ery8-bUaTA76cwm-32" value="Middleware" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_service_request;" parent="1" vertex="1">
           <mxGeometry x="-566.15" y="209" width="60.15" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Ihpz_ery8-bUaTA76cwm-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABi0lEQVR4nO2XTW7CQAyF36JZFTbtrUgWvQUr2DXhdlVJuqC9ULMh1UiOZFkFZmLnh9afNBIaMsN7E+OxAcdxHAUZgAOAhkZFc3fBGsARQCfGO4AVFs4jgLdfxPfjgwwukiCsZmLPAEoKnzObry3eRAHgE0B75bT60dKzeaL4Hft+b2miiBB9abxEhE0QGgRLtsLE4HD6Uhg4ib1WN05eYvImeNg8RTz/zJ7/ZvMZZZZY8ZdMhD0ekAA/Uc2awwDxPTth4hUzGGjYXMg2qZQilFRitAZCqkylYuvDxacSM2RNFZF5Yv8Hs4RQJkqGWBN7If4415845Q4wvQssDcxykXXGBmJMbIX4RlPU8YssXFJDLzLJWmSm85ViTlWRWpYSt0x0YqjFa4u5zVIampxOM7acPkWK5ym2pBOv6XNSqnSWTmHUkVl3dpN2ZNad3eRpdMx0PElHZrVPMvwkNGus9knGDRD+BobiIUR4CP3bEGqNOrKxOru/X0rkih/ejLDPrB3Z2J2d4zi4U34AJZ1A3nmW1JAAAAAASUVORK5CYII=;" parent="1" vertex="1">
-          <mxGeometry width="48" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="-KhQLRqO_MwmeqYD8F9i-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ihpz_ery8-bUaTA76cwm-35" target="Ihpz_ery8-bUaTA76cwm-37">
+        <mxCell id="-KhQLRqO_MwmeqYD8F9i-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ihpz_ery8-bUaTA76cwm-35" target="Ihpz_ery8-bUaTA76cwm-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-260" y="99" />
